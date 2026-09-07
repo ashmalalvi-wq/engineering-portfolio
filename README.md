@@ -2,7 +2,7 @@
 
 Hi, I'm Ashmal. This repository is a collection of my independent and collaborative mechanical/electrical design projects, spanning CAD modeling, 3D printing, gear systems, electromagnetics, and mechanical testing. Each subfolder below is a self-contained design with its own README covering the overview, tools used, and key takeaways.
 
-> This repository is shared for portfolio purposes. Designs here are finished pieces of work rather than actively-developed open source projects, so forking is disabled — feel free to reach out if you'd like to discuss any of them directly.
+> This repository is shared for portfolio purposes. Designs here are finished pieces of work rather than actively-developed open source projects — feel free to reach out if you'd like to discuss any of them directly.
 
 ## Designs
 
