@@ -40,4 +40,4 @@ Functional test rig / proof of concept, not integrated into a larger system.
 Fusion 360
 
 ## Files
-- `New Gear System.obj` + `.mtl` — exported mesh of the gear assembly. GitHub's built-in 3D viewer only renders `.stl` files, so this OBJ is downloadable here but won't preview interactively on the file page.
+No CAD or mesh file is included yet — this folder currently holds only this README. An exported mesh (OBJ/STL) may be added later.
