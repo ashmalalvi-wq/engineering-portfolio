@@ -37,4 +37,5 @@ An educational project built to learn CAD assembly and mating — every componen
 SolidWorks
 
 ## Files
-The `2023 version/` subfolder contains the native SolidWorks source files (`.SLDPRT` parts, `.SLDASM` assemblies, `.SLDDRW` drawings). GitHub does not render SolidWorks files interactively — they're downloadable here only. No STL export is included yet, so there's currently no in-browser 3D preview for this design.
+- `Standing Desk.png` — design/render image.
+- The `2023 version/` subfolder contains the native SolidWorks source files (`.SLDPRT` parts, `.SLDASM` assemblies, `.SLDDRW` drawings). GitHub does not render SolidWorks files interactively — they're downloadable here only. No STL export is included yet, so there's currently no in-browser 3D preview for this design.

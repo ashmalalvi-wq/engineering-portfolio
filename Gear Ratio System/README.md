@@ -40,4 +40,4 @@ Functional test rig / proof of concept, not integrated into a larger system.
 Fusion 360
 
 ## Files
-No CAD or mesh file is included yet — this folder currently holds only this README. An exported mesh (OBJ/STL) may be added later.
+- `Gear System.png` — design/setup image. No CAD or mesh file is included here — an exported mesh (OBJ/STL) may be added later.
