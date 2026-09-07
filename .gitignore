@@ -1,0 +1,25 @@
+# OS junk files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# SolidWorks autosave / backup / lock files
+~$*
+*.SLDPRT.lck
+*.SLDASM.lck
+*.SLDDRW.lck
+*.bak
+*.old
+*_backup*
+
+# Fusion 360 / other CAD temp
+*.f3d.bak
+*.tmp
+
+# Autodesk / generic CAD temp
+*.CATTemp
