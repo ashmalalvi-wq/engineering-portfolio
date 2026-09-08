@@ -1,5 +1,7 @@
 # Motorized Standing Desk (Hand-Crank)
 
+![Hand-crank motorized standing desk design](./Standing%20Desk.png)
+
 **Collaborative project** — designed with a project partner in **SolidWorks**.
 
 ## Overview

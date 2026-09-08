@@ -1,5 +1,7 @@
 # Magnetic Induction Wheel Generator
 
+![Magnetic induction wheel generator design](./Magnetic%20Induction%20Wheel%20Design.png)
+
 **Collaborative project** — co-designed and built with a project partner.
 
 ## Overview

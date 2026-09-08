@@ -1,5 +1,7 @@
 # Welding Bend Test Rig (Initial Design)
 
+![Welding bend test rig design](./Weld%20Test.png)
+
 Developed as part of Rutgers Formula Racing's chassis fabrication process in **SolidWorks**, in compliance with **American Welding Society (AWS)** standards.
 
 ## Overview

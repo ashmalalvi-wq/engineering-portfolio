@@ -1,5 +1,7 @@
 # Gear Ratio System
 
+![3D-printed gear ratio system rendered in Fusion 360](./Gear%20System.png)
+
 An educational, 3D-printed gear system built in **Fusion 360** to explore fundamental mechanical design questions rather than serve a single fixed application.
 
 ## Purpose
